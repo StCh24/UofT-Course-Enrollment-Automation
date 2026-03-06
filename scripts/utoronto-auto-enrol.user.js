@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Open one worker window per course and repeatedly try to click Enrol.
-// @author       You
+// @author       Althusser
 // @match        https://acorn.utoronto.ca/sws/*
 // @grant        none
 // ==/UserScript==
