@@ -12,7 +12,7 @@
     'use strict';
 
     const preferredCourses = [
-        "CSC108H1",
+        "CSC148H1",
         "ECO101H1",
         "MAT135H1",
         "MAT223H1",
