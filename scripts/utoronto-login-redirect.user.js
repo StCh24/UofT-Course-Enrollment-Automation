@@ -13,9 +13,9 @@
     'use strict';
 
     // Replace these placeholders with your own credentials locally.
-    // Never commit real credentials to GitHub.
-    let username = "YOUR_USERNAME",
-        password = "YOUR_PASSWORD";
+
+    let username = "UTORid",
+        password = "Password";
 
     // If the login submit button is present, we assume we are on the UofT SSO page.
     let btn = document.querySelector("button[name='_eventId_proceed']");
