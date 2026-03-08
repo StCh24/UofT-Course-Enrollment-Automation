@@ -102,7 +102,7 @@ Replace these placeholders
 
 ```javascript
 const preferredCourses = [
-    "CSC108H1",
+    "CSC148H1",
     "ECO101H1",
     "MAT135H1",
     "MAT223H1",
@@ -115,8 +115,8 @@ BASE_URL = "https://acorn.utoronto.ca/sws/#/courses/0";
 
 - `preferredCourses`: list of target course IDs
 
-Replace these IDs
-
+Replace these courses IDs
+You must have already added these courses to your enrollment cart
 
 
 ---
